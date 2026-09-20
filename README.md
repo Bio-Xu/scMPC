@@ -3,6 +3,8 @@
 
 Tumor metastasis is a complex and heterogeneous process, and only a subset of tumor cells possess the ability to initiate and sustain metastatic progression. scMPC addresses this challenge by leveraging metastasis-associated gene signatures derived from bulk transcriptomic datasets and transferring this information to the single-cell level.
 
+This repository provides the core scMPC workflow and representative scripts for major downstream computational analyses described in this study.
+
 ## Key Features
 - **Transfer learning framework**
   Integrates bulk transcriptomic data with single-cell RNA-seq data to identify metastasis-associated cellular subpopulations.
